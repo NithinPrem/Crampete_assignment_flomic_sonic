@@ -10,8 +10,7 @@ body {
 	margin: 0 0 0 13rem;
 }
 .hero-bg {
-	background: url("images/pexels-johannes-plenio-2850287.jpg")
-		no-repeat center/cover;
+	background: url("images/hero.jpg") no-repeat center/cover;
 	height: 60vh;
 	text-align: center;
 	padding: 12rem 0;
